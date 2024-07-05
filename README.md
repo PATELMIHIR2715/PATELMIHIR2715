@@ -3,13 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aryanpatel1066/">
+  <a href="https://www.linkedin.com/in/patelmihir2715/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/Aryanpatel1066/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="mailto:aryanpatel1248@gmail.com">
+  <a href="mailto:mihirpqtel@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 </div>
@@ -26,10 +23,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems  and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpatel1066/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patelmihir2715/)
 ### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,java,mysql,git)](https://skillicons.dev)
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aryanpatel1066&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanpatel1066&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MIHIRPATEL2715&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIHIRPATEL2715&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
