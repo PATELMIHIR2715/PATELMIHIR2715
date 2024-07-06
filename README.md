@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="[example.svg](https://github.com/MIHIRPATEL2715/MIHIRPATEL2715/blob/main/mihir.svg)" width="400" height="400" alt="css-in-readme">
 </div>
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
