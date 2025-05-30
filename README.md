@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirpatel2715&label=Profile%20views&color=0e75b6&style=flat" alt="mihirpatel2715" /> </p>
 
-- 🌱 I’m currently learning **React js , NEXT js**
+- 🌱 I’m currently learning **React js , WordPress , NEXT js**
 
 - 👨‍💻 All of my projects are available at [https://patelmihir.vercel.app/](https://patelmihir.vercel.app/)
 
-- 💬 Ask me about **DSA,JAVA,C++,OOPs**
+- 💬 Ask me about **DSA,JAVA,JS,PHP,OOPs**
 
 - 📫 How to reach me **patelmihir2712005@gmail.com**
 
 - 📄 Know about my experiences [https://patelmihir.vercel.app/resume.pdf](https://patelmihir.vercel.app/resume.pdf)
 
-- ⚡ Fun fact **i solved 300+ DSA problems on various platforms**
+- ⚡ Fun fact **i solved 600+ DSA problems on various platforms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
